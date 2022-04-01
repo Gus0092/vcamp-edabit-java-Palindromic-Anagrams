@@ -10,3 +10,5 @@ Captura dos testes:
 Endereço do desafio:
 
 https://edabit.com/challenge/a242aPZGmmx8xhiuy
+
+Dificuldade: Muito dificil
