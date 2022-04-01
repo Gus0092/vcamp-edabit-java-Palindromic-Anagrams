@@ -4,7 +4,8 @@ Gustavo Victor Cerqueira
 https://www.linkedin.com/in/gus02/
 
 Captura dos testes:
-https://github.com/Gus0092/vcamp-edabit-java-Palindromic-Anagrams/blob/main/captura-dos-testes.png
+
+![](https://github.com/Gus0092/vcamp-edabit-java-Palindromic-Anagrams/blob/main/captura-dos-testes.png)
 
 Endereço do desafio:
 
